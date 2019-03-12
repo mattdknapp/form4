@@ -1,0 +1,19 @@
+{
+  "name": "form4",
+  "version": "0.0.1",
+  "description": "A small utility library for handling forms with React and Redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdknapp/form4.git"
+  },
+  "author": "Matthew Knapp <matthew.knapp@tma1.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdknapp/form4/issues"
+  },
+  "homepage": "https://github.com/mattdknapp/form4#readme"
+}
